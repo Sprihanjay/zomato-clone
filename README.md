@@ -2,7 +2,7 @@
 This is a static website built using HTML and CSS that mimics the functionality and design of the popular food discovery and delivery platform, Zomato. The website allows users to browse and search for restaurants in their area, view restaurant details and menus, and place orders for pickup or delivery.
 
 ## Getting Started
-To view the website, simply open the index.html file in your web browser. The website has been designed to be responsive and can be viewed on desktop and mobile devices.
+To view the website, simply open the index.html file in your web browser. The website has been designed to be responsive and can be viewed on desktop and mobile devices. You may see the webpage here: https://sprihanjay.github.io/zomato-clone/
 
 ## Features
 The Zomato clone website implemented in this project includes the following features:
